@@ -21,20 +21,20 @@ Below is the refactored VBA script used to analyze the Stock Market dataset.
 ### Stock Analysis for 2017 and 2018
 
 For 2017, all stocks had a positive return on investment rate with the exeption of TERP, which had -7.21% ROI rate.
-![](All_Stocks_2017.png)
+![](https://github.com/EnoVaqari/stock-analysis/blob/main/Resources/All_Stocks_2017.png)
 
 For 2018, ENPH and RUN had positive outcomes with 81.92% and 83.95% return on investments respectively. The rest of the outcomes were negative. 
-![](All_Stocks_2018.png)
+![](https://github.com/EnoVaqari/stock-analysis/blob/main/Resources/All_Stocks_2018.png)
 
 ### Original code Vs Refactored Code 
 
 By refactoring the code, there was a visible improvement on the time the code ran from 0.9375 seconds to 0.1875 seconds for 2017, and from 0.8710938 seconds to 0.1679688 seconds for 2018. 
 
 
-![](original_2017.png)
-![](refactored-2017.png)
-![](original_2018.png)
-![](Refactored_2018.png)
+![](https://github.com/EnoVaqari/stock-analysis/blob/main/Resources/original_2017.png)
+![](https://github.com/EnoVaqari/stock-analysis/blob/main/Resources/refactored_2017.png)
+![](https://github.com/EnoVaqari/stock-analysis/blob/main/Resources/original_2018.png)
+![](https://github.com/EnoVaqari/stock-analysis/blob/main/Resources/Refactored_2018.png)
 
 ## Summary
 
