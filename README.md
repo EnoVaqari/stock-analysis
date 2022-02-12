@@ -24,6 +24,7 @@ For 2017, all stocks had a positive return on investment rate with the exeption 
 ![](https://github.com/EnoVaqari/stock-analysis/blob/main/Resources/All_Stocks_2017.png)
 
 For 2018, ENPH and RUN had positive outcomes with 81.92% and 83.95% return on investments respectively. The rest of the outcomes were negative. 
+
 ![](https://github.com/EnoVaqari/stock-analysis/blob/main/Resources/All_Stocks_2018.png)
 
 ### Original code Vs Refactored Code 
